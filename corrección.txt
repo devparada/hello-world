@@ -1,0 +1,18 @@
+CORRECCIÓN — PRÁCTICA 0-A: HELLO WORLD
+
+Resultado: Todo OK 😀
+
+Has creado la rama editar-readme, modificado el README
+y fusionado los cambios en main mediante una pull request.
+
+Has conservado el encabezado y explicado tus intereses.
+La PR incluye una descripción del cambio.
+
+Como mejora:
+Utiliza mensajes de commit y títulos de PR más concretos
+que "Update README.md", por ejemplo:
+"Añadir presentación e intereses al README".
+
+Puedes fusionar esta PR para incorporar la devolución.
+La práctica queda revisada y puedes borrar el repositorio
+cuando quieras.
